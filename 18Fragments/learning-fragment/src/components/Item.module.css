@@ -1,0 +1,12 @@
+.kg-item {
+  color: orangered;
+  list-style: none;
+  padding: 2px;
+}
+.kg-span {
+  background-color: khaki;
+}
+
+.button {
+  float: right;
+}
